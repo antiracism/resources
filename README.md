@@ -32,7 +32,7 @@ This is an open-source collection of anti-racism resources for building towards 
 
 ## Actions
 
-- 
+- [Show Up for Racial Justice](https://www.showingupforracialjustice.org/)
 - 
 
 # Collaborate
