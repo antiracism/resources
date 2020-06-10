@@ -6,13 +6,14 @@ This is an open-source collection of anti-racism resources for building towards 
 
 ## Books
 
-- 
-- 
+- [How to be an Antiracist](https://www.ibramxkendi.com/how-to-be-an-antiracist-1), by Ibram X. Kendi
+- [So you want to talk about race](https://www.hachettebookgroup.com/titles/ijeoma-oluo/so-you-want-to-talk-about-race/9781580056779/), by Ijeoma Oluo
 
-## Movies
+## Movies & TV
 
-- 
-- 
+- 🎥[13th](https://www.justwatch.com/us/movie/the-13th), directed by Ava DuVernay
+- 🎥[Harriet](https://www.justwatch.com/us/movie/harriet), directed by Kasi Lemmons
+- 📺[Roots](https://www.justwatch.com/us/tv-show/roots), directed by Gilbert Moses, et al.
 
 ## Podcasts
 
