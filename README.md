@@ -6,13 +6,33 @@ This is an open-source collection of anti-racism resources for building towards 
 
 ## Books
 
+- 
+- 
+
 ## Movies
+
+- 
+- 
 
 ## Podcasts
 
+- 
+- 
+
+## Art
+
+- 
+- 
+
 ## Courses, Guides, and Tools 
 
+- 
+- 
+
 ## Actions
+
+- 
+- 
 
 # Collaborate
 
